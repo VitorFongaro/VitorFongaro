@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/vitor-fongaro">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=VitorFongaro&style=for-the-badge&color=7c3aed&label=VISITANTES"/>
 <img src="https://img.shields.io/badge/📍_Brasil-0d0d1a?style=for-the-badge"/>
 
 </div>

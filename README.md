@@ -20,15 +20,11 @@
 
 ## 🗡️ `> STATUS DO PERSONAGEM`
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```yaml
 player:   Vitor Fongaro
 class:    Full-Stack Developer
 subclass: IoT Engineer / Game Dev
-region:   Brasil 🇧🇷
+region:   Brasil
 level:    ██████████░░░░░  XP em progresso...
 
 atributos:
@@ -42,18 +38,6 @@ main_quest: "Reprogrammed — ensinar lógica
              de programação com gamificação e IA"
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<!-- 💡 Troque pela sua gif favorita de anime/jogo (arraste o arquivo pra uma issue do repo e cole o link aqui) -->
-<img src="https://avatars.githubusercontent.com/VitorFongaro" width="220" style="border-radius:50%"/>
-
-<sub><i>"Loading next level..."</i> 🎮</sub>
-
-</td>
-</tr>
-</table>
-
 <!-- ═══════════════════════  SKILLS  ═══════════════════════ -->
 
 ## ⚔️ `> INVENTÁRIO / HABILIDADES`
@@ -61,10 +45,10 @@ main_quest: "Reprogrammed — ensinar lógica
 <div align="center">
 
 **🔮 Linguagens**<br/>
-<img src="https://skillicons.dev/icons?i=js,php,html,css,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,php,html,css,cpp&theme=dark" />&nbsp;<img src="assets/delphi.svg" width="48" />
 
 **🛡️ Ferramentas & Plataformas**<br/>
-<img src="https://skillicons.dev/icons?i=supabase,mysql,arduino,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=supabase,mysql&theme=dark" />&nbsp;<img src="assets/sqlserver.svg" width="48" />&nbsp;<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
 
 </div>
 

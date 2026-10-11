@@ -9,6 +9,9 @@
 
 <br/>
 
+<a href="https://vitorfongaro.github.io">
+  <img src="https://img.shields.io/badge/▶_PORTFÓLIO-dad4bb?style=for-the-badge&logoColor=4e4b42&labelColor=4e4b42&color=dad4bb"/>
+</a>
 <a href="https://www.linkedin.com/in/vitor-fongaro">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
 </a>

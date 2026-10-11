@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:3b1d6e,100:a78bfa&height=200&section=header&text=Vitor%20Fongaro&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=%E2%96%B6%20PRESS%20START%20TO%20CONTINUE&descSize=16&descAlignY=58&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=%3E+Loading+next+level...;%3E+Player+1+entrou+no+jogo+%F0%9F%8E%AE;%3E+Desenvolvedor+Full-Stack+%7C+IoT+%7C+GameDev;%3E+Ensinando+l%C3%B3gica+com+jogos+e+IA" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=%3E+Loading+next+level...;%3E+Player+1+entrou+no+jogo+%F0%9F%8E%AE;%3E+Desenvolvedor+Full-Stack+%7C+Web+%7C+GameDev;%3E+Ensinando+l%C3%B3gica+com+jogos+e+IA" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 ```yaml
 player:   Vitor Fongaro
 class:    Full-Stack Developer
-subclass: IoT Engineer / Game Dev
+subclass: Web Developer / Game Dev
 region:   Brasil
 level:    ██████████░░░░░  XP em progresso...
 
@@ -31,7 +31,7 @@ atributos:
   INT:  ★★★★☆   # lógica & algoritmos
   DEX:  ★★★★☆   # front-end
   CON:  ★★★☆☆   # back-end
-  WIS:  ★★★★☆   # hardware & IoT
+  WIS:  ★★★★☆   # banco de dados & SQL
   LCK:  ★★☆☆☆   # deploy na sexta-feira
 
 main_quest: "Reprogrammed — ensinar lógica
@@ -48,7 +48,7 @@ main_quest: "Reprogrammed — ensinar lógica
 <img src="https://skillicons.dev/icons?i=js,php,html,css,cpp&theme=dark" />&nbsp;<img src="assets/delphi.svg" width="48" />
 
 **🛡️ Ferramentas & Plataformas**<br/>
-<img src="https://skillicons.dev/icons?i=supabase,mysql&theme=dark" />&nbsp;<img src="assets/sqlserver.svg" width="48" />&nbsp;<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=supabase,mysql&theme=dark" />&nbsp;<img src="assets/sqlserver.svg" width="48" />&nbsp;<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
